@@ -1,6 +1,10 @@
 # Community_pooling
 Improving LDA topic modeling in Twitter with graph community detection.
+
 Paper: Albanese, F; Feuerstein, E. [Improved Topic Modeling in Twitter Through Community Pooling](https://arxiv.org/pdf/2201.00690.pdf). (SPIRE 2021)
+
+[Short talk](https://icml.cc/virtual/2021/affinityworkshop/10848#wse-detail-11743) (5min) at the LatinX @ ICML 2021
+
 
 ## Abstract:
 
